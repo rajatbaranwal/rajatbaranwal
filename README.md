@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" alt="Welcome GIF">
+  <img src="[https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966](https://github.com/rajatbaranwal/rajatbaranwal/blob/main/pixel-jeff-matrix-s.gif)" alt="Welcome GIF">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rajat</h1>
