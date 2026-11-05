@@ -2,29 +2,122 @@
   <img src="https://raw.githubusercontent.com/rajatbaranwal/rajatbaranwal/main/pixel-jeff-matrix-s.gif" alt="Welcome GIF">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajat</h1>
-<h3 align="center">Full Stack Developer | ReactJS, NodeJS, MongoDB Enthusiast | Passionate about Scalable Web Solutions | 15 Google Cloud Skill Badges | SRM University Scholar</h3>
+<h1 align="center">Rajat Baranwal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatbaranwal&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbaranwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbaranwal" alt="rajatbaranwal" /></a> </p>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA) to enhance problem-solving skills and deepen my understanding of efficient coding practices.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajatbaranwal](https://github.com/rajatbaranwal)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajat-baranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-baranwal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ap22110011534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap22110011534" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajat_bar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_bar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://rajat-portfolio-lime.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer+%C2%B7+Backend+%26+AI+Integration;I+build+real-time+speech+%26+translation+pipelines;FastAPI+%C2%B7+WebSockets+%C2%B7+PostgreSQL+%C2%B7+Next.js;IEEE+co-author+%C2%B7+Oracle+Certified+Java+Developer;Open+to+full-time+SWE+roles+%F0%9F%9A%80" alt="Typing intro" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://rajat-portfolio-lime.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/rajat-baranwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rajat123baranwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11576810/"><img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication"/></a>
+  <a href="https://www.leetcode.com/rajat_bar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatbaranwal&show_icons=true&locale=en&layout=compact" alt="rajatbaranwal" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajatbaranwal&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatbaranwal&show_icons=true&locale=en" alt="rajatbaranwal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatbaranwal&" alt="rajatbaranwal" /></p>
+### `$ whoami`
+
+```python
+class Rajat:
+    role       = "Software Engineer · Backend & AI Integration"
+    education  = "B.Tech CSE @ SRM University AP ('26) · CGPA 8.24 · Merit Scholar"
+    experience = "SWE Intern @ XiPHI AI, Seattle (Remote) · Apr – Oct 2026"
+    builds     = ["real-time speech pipelines", "FastAPI services", "LLM workflows", "full-stack apps"]
+    research   = "Co-author · IEEE CI2A 2026"
+    certified  = ["Oracle Certified Professional: Java SE 11", "AWS Fundamentals"]
+    status     = "Open to full-time Software Engineer roles 🚀"
+```
+
+---
+
+### 💼 Experience: Software Engineer Intern @ XiPHI AI
+
+I worked on **[myEventz.ai](https://myeventz.ai)**, building live transcription and translation for events, and **onboard.myeventz.ai**, the attendee onboarding platform.
+
+```mermaid
+flowchart LR
+    A["🎙️ Live audio"] -->|WebSocket stream| B["⚡ FastAPI<br/>async service"]
+    B --> C["ElevenLabs<br/>Scribe v2 Realtime"]
+    C -->|partial + final<br/>transcripts| D[("PostgreSQL<br/>translation cache")]
+    D -->|hit| F["🖥️ Next.js<br/>live captions"]
+    D -->|miss| E["Gemini via n8n"]
+    E -.->|cache result| D
+    E --> F
+```
+
+- ⚡ **Real-time speech-to-text**: async audio streaming over WebSockets, handling both partial and final transcription events
+- 🗄️ **LLM cost control**: a PostgreSQL translation cache that skips redundant Gemini / n8n workflow runs
+- 📈 **Performance**: load-tested APIs with Apache JMeter + Grafana to find failures and latency bottlenecks under concurrent load
+- 🔐 **Production**: integrated Cloudflare Turnstile and fixed deployment issues across Next.js, Docker, and containers
+- 🧪 **R&D**: benchmarked Faster-Whisper with audio chunking, overlapping windows, and VAD; validated QR check-in with duplicate-scan detection
+
+---
+
+### 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/rajatbaranwal/roadresq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatbaranwal&repo=roadresq&theme=tokyonight&hide_border=true" alt="RoadResQ"/></a>
+  <a href="https://github.com/rajatbaranwal/mediq-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatbaranwal&repo=mediq-platform&theme=tokyonight&hide_border=true" alt="MediQ"/></a>
+  <a href="https://github.com/rajatbaranwal/real-time-sales-streaming-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatbaranwal&repo=real-time-sales-streaming-pipeline&theme=tokyonight&hide_border=true" alt="Real-Time Sales Streaming Pipeline"/></a>
+</p>
+
+| | Project | Highlights | Stack |
+|:-:|---|---|---|
+| 🚗 | **[RoadResQ](https://github.com/rajatbaranwal/roadresq)** | Connects stranded drivers with mechanics; live GPS tracking during active requests; separate customer and mechanic dashboards | MERN · Socket.IO · Leaflet · JWT |
+| 🏥 | **[MediQ](https://github.com/rajatbaranwal/mediq-platform)** | Global hospital discovery with geospatial search; appointments, OPD queues, bed and blood-inventory tracking; real-time updates | Next.js · TypeScript · Express · MongoDB · Socket.IO |
+| ⚡ | **[Real-Time Sales Pipeline](https://github.com/rajatbaranwal/real-time-sales-streaming-pipeline)** | Kafka producer–consumer streaming into PostgreSQL, with a live Streamlit KPI dashboard | Kafka · PostgreSQL · Python · Streamlit |
+
+---
+
+### 📄 Research
+
+> **Co-author**: research paper published at **IEEE CI2A 2026** · [Read on IEEE Xplore →](https://ieeexplore.ieee.org/abstract/document/11576810/)
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,kafka,postgres,mongodb,mysql&theme=dark" alt="Backend & data"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman,grafana,vercel&theme=dark" alt="DevOps & tools"/>
+</p>
+
+<p align="center">
+  <b>AI & Speech</b>&nbsp; Gemini · ElevenLabs Scribe v2 · Faster-Whisper · VAD · n8n
+</p>
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rajatbaranwal&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatbaranwal&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajatbaranwal&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatbaranwal/rajatbaranwal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatbaranwal/rajatbaranwal/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/rajatbaranwal/rajatbaranwal/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=110&section=footer&text=Let's%20build%20something%20real-time&fontSize=20&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
+</p>
