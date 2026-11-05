@@ -64,12 +64,6 @@ flowchart LR
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/rajatbaranwal/roadresq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatbaranwal&repo=roadresq&theme=tokyonight&hide_border=true" alt="RoadResQ"/></a>
-  <a href="https://github.com/rajatbaranwal/mediq-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatbaranwal&repo=mediq-platform&theme=tokyonight&hide_border=true" alt="MediQ"/></a>
-  <a href="https://github.com/rajatbaranwal/real-time-sales-streaming-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatbaranwal&repo=real-time-sales-streaming-pipeline&theme=tokyonight&hide_border=true" alt="Real-Time Sales Streaming Pipeline"/></a>
-</p>
-
 | | Project | Highlights | Stack |
 |:-:|---|---|---|
 | 🚗 | **[RoadResQ](https://github.com/rajatbaranwal/roadresq)** | Connects stranded drivers with mechanics; live GPS tracking during active requests; separate customer and mechanic dashboards | MERN · Socket.IO · Leaflet · JWT |
@@ -102,8 +96,12 @@ flowchart LR
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rajatbaranwal&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatbaranwal&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages"/>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
