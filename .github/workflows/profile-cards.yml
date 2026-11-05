@@ -1,0 +1,27 @@
+# Save this file in your rajatbaranwal/rajatbaranwal repo at:
+#   .github/workflows/profile-cards.yml
+# It generates the GitHub stats cards used in README.md and refreshes them daily.
+
+name: Generate profile stats cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # every day at 00:30 UTC
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
